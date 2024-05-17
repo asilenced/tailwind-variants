@@ -123,14 +123,6 @@ module.exports = withTV(
 - [**Stitches**](https://stitches.dev/) ([Modulz](https://modulz.app))  
   The pioneers of the `variants` API movement. Inmense thanks to [Modulz](https://modulz.app) for their work on Stitches and the community around it. 🙏
 
-## Community
-
-We're excited to see the community adopt NextUI, raise issues, and provide feedback. Whether it's a feature request, bug report, or a project to showcase, please get involved!
-
-- [Discord](https://discord.gg/9b6yyZKmH4)
-- [Twitter](https://twitter.com/getnextui)
-- [GitHub Discussions](https://github.com/nextui-org/tailwind-variants/discussions)
-
 ## Contributing
 
 Contributions are always welcome!
@@ -138,11 +130,6 @@ Contributions are always welcome!
 Please follow our [contributing guidelines](./CONTRIBUTING.md).
 
 Please adhere to this project's [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md).
-
-## Authors
-
-- Junior garcia ([@jrgarciadev](https://github.com/jrgaciadev))
-- Tianen Pang ([@tianenpang](https://github.com/tianenpang))
 
 ## License
 
